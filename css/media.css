@@ -1,0 +1,7 @@
+@media (max-width: 1600px){ #header .container {
+    padding: 110px 15px 85px 15px;
+}
+
+}
+
+@media (max-width: 900px){ ul.components-list li{font-size:1.0vw;}}
